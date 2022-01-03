@@ -1,0 +1,8 @@
+/*Image properties*/
+
+img {
+  width: 325px;
+  border: 1px solid #ddd;
+  padding: 7px;
+  border-radius: 4px;
+}
