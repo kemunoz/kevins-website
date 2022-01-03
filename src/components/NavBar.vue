@@ -1,7 +1,7 @@
 <template>
   <ul class="nav">
     <li class="nav-item fs-3">
-      <a class="nav-link active" aria-current="page" @click="blah"> About </a>
+      <a class="nav-link" aria-current="page" @click="blah"> About </a>
     </li>
   </ul>
 </template>
